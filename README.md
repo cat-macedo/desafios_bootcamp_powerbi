@@ -10,7 +10,7 @@ Os projetos exploram a criação de relatórios, visualização de dados, análi
 - Power BI
 - Power Query
 - SQL
-- DAX
+<!-- - DAX -->
 
 ## 📚 Objetivo
 
