@@ -69,7 +69,7 @@ Implementação de duas páginas de relatório, com foco na análise de **Vendas
 
 ### [Desafio 3 — Processamento de Dados](./Desafio%203%20-%20Processamento%20de%20Dados/)
 
-Projeto com foco no **na limpeza, tratamento e transformação de dados**.
+Projeto com foco no **na limpeza, tratamento e transformação de dados** usando Power Query.
 
 **Principais atividades:**
 - Criação de uma base de dados fictícia em MySQL.
