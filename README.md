@@ -69,7 +69,20 @@ Implementação de duas páginas de relatório, com foco na análise de **Vendas
 
 ### [Desafio 3 — Processamento de Dados](./Desafio%203%20-%20Processamento%20de%20Dados/)
 
-Em breve...
+Projeto com foco no **na limpeza, tratamento e transformação de dados**.
+
+**Principais atividades:**
+- Verificação dos cabeçalhos e tipos de dados.
+- Tratamento de valores nulos e análise de inconsistências.
+- Separação e combinação de colunas, incluindo endereços e nomes completos.
+- Associação entre colaboradores, departamentos e respectivos gerentes.
+- Criação de relatórios interativos para análise de funcionários, departamentos e projetos.
+
+#### Visualizações
+
+![Relatório de Departamentos](./Desafio%203%20-%20Processamento%20de%20Dados/img/pag1.png)
+
+![Relatório de Projetos](./Desafio%203%20-%20Processamento%20de%20Dados/img/pag2.png)
 
 ---
 
