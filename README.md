@@ -72,11 +72,12 @@ Implementação de duas páginas de relatório, com foco na análise de **Vendas
 Projeto com foco no **na limpeza, tratamento e transformação de dados**.
 
 **Principais atividades:**
+- Criação de uma base de dados fictícia em MySQL.
 - Verificação dos cabeçalhos e tipos de dados.
 - Tratamento de valores nulos e análise de inconsistências.
 - Separação e combinação de colunas, incluindo endereços e nomes completos.
 - Associação entre colaboradores, departamentos e respectivos gerentes.
-- Criação de relatórios interativos para análise de funcionários, departamentos e projetos.
+- Criação de relatórios interativos para validação das transformações e análise de funcionários, departamentos e projetos.
 
 #### Visualizações
 
